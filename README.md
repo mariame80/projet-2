@@ -1,6 +1,7 @@
 
 Explication des commandes utilisées – 
 Exercice 1 : git-learning-1
+![](./exo-1.png)
 
 
 
@@ -50,7 +51,9 @@ git push origin main : pour pousser ce deuxième commit sur GitHub et mettre à 
 
  Explication de mes commandes utilisées —
  Exercice 2 : git-learning-2
+ ![](exo-2.png)
 
+ 
 cd git-learning-2 :
 j’utilise cd (change directorys) pour entrer dans le dossier du projet git-learning-2.
 
@@ -89,6 +92,7 @@ j’utilise cette commande pour valider la Pull Request et fusionner définitive
 
 Explication de mes commandes utilisées — 
 Exercice 3 : git-learning-3
+![](exo-3.png)
 
 gh repo create git-learning-3 --public --clone :
 j’utilise cette commande pour créer un nouveau dépôt GitHub appelé git-learning-3 depuis le terminal,
@@ -160,5 +164,6 @@ j’utilise git commit pour enregistrer la version finale corrigée après avoir
 git push origin main :
 j’utilise cette commande pour envoyer le résultat final du conflit résolu sur GitHub,
 afin que la version corrigée soit disponible en ligne
+
 
 
