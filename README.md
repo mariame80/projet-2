@@ -1,7 +1,7 @@
 
 Explication des commandes utilisées – 
 Exercice 1 : git-learning-1
-![](./exo-1.png)
+![](exo-1.png)
 
 
 
@@ -164,6 +164,7 @@ j’utilise git commit pour enregistrer la version finale corrigée après avoir
 git push origin main :
 j’utilise cette commande pour envoyer le résultat final du conflit résolu sur GitHub,
 afin que la version corrigée soit disponible en ligne
+
 
 
 
